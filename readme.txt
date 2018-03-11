@@ -1,13 +1,8 @@
 "Hello Git"
 Welcome Git
+trying to push to remote github.com
 
-making changes to readme.txt
-
-Sharing remotely is fun and easy
-
-adding https remote branch
-
-added ssh key
+ 
 
 
 
